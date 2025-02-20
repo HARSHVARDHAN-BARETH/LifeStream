@@ -1,4 +1,4 @@
-# LifeStream - "A Real-Time Blood and Stem Cell Donor "
+# LifeStream - "A Real-Time Blood and Stem Cell Donor"
 
 ![image](https://github.com/user-attachments/assets/c0da9f9d-48cb-4e5c-8a7c-13b153626487)
 ![image](https://github.com/user-attachments/assets/d1bbc034-d04e-45b0-880a-c2a9112a57ff)
